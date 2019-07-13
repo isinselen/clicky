@@ -1,0 +1,8 @@
+.clicky {
+    text-align: center;
+    padding-top: 30px;
+    background: #2A77AE;
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap;
+  }
