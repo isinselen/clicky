@@ -2,84 +2,84 @@
     {
       "id": 1,
       "name": "Jennifer Aniston",
-      "image": "https://www.imdb.com/name/nm0000098/mediaviewer/rm226134272",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk1MjIxNjUxNF5BMl5BanBnXkFtZTcwODk2NzM4Mg@@._V1_.jpg",
       "occupation": "Actress",
       "location": "Friends"
     },
     {
       "id": 2,
       "name": "Courteney Cox",
-      "image": "https://www.imdb.com/name/nm0001073/mediaviewer/rm651071232",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTczNDExNDNeQTJeQWpwZ15BbWU3MDUyNTIzMTM@._V1_.jpg",
       "occupation": "Actress",
       "location": "Friends"
     },
     {
       "id": 3,
       "name": "Lisa Kudrow",
-      "image": "https://www.imdb.com/name/nm0001435/mediaviewer/rm1084919552",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTA0ODcxNl5BMl5BanBnXkFtZTcwMjE3NjQxMw@@._V1_.jpg",
       "occupation": "Actress",
       "location": "Friends"
     },
     {
       "id": 4,
       "name": "Matt LeBlanc",
-      "image": "https://www.imdb.com/name/nm0001455/mediaviewer/rm1082698240",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ0NTI0OTk0M15BMl5BanBnXkFtZTcwMDk2MDg5Nw@@._V1_SY1000_CR0,0,616,1000_AL_.jpg",
       "occupation": "Actor",
       "location": "Friends"
     },
     {
       "id": 5,
       "name": "Matthew Perry",
-      "image": "https://www.imdb.com/name/nm0001612/mediaviewer/rm261783552",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwODc5NjI3N15BMl5BanBnXkFtZTcwNDEyMTE3Mw@@._V1_.jpg",
       "occupation": "Actor",
       "location": "Friends"
     },
     {
       "id": 6,
       "name": "David Schwimmer",
-      "image": "https://www.imdb.com/name/nm0001710/mediaviewer/rm1146363392",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2Mjg5ODIzNF5BMl5BanBnXkFtZTgwNjIwMjI0ODE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
       "occupation": "Actor",
       "location": "Friends"
     },
     {
       "id": 7,
       "name": "Elliott Gould",
-      "image": "https://www.imdb.com/name/nm0001285/mediaviewer/rm205685504",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzNzU0MTA0OV5BMl5BanBnXkFtZTcwODQ2NDM2Mw@@._V1_.jpg",
       "occupation": "Actor",
       "location": "Friends"
     },
     {
       "id": 8,
       "name": "Christina Pickles",
-      "image": "https://www.imdb.com/name/nm0681943/mediaviewer/rm1693664512",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2VmMDI5Y2YtZTZmNy00NDJiLTgyYTItOWZiMjdiYjk2MDE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SY1000_SX800_AL_.jpg",
       "occupation": "Actress",
       "location": "Friends"
     },
     {
       "id": 9,
       "name": "Maggie Wheeler",
-      "image": "https://www.imdb.com/name/nm0923909/mediaviewer/rm1948813056",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA5NjA1NDM4NDFeQTJeQWpwZ15BbWU3MDM2Mjk5MDQ@._V1_.jpg",
       "occupation": "Actress",
       "location": "Friends"
     },
     {
       "id": 10,
       "name": "Paul Rudd",
-      "image": "https://www.imdb.com/name/nm0748620/mediaviewer/rm731323904",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_SY1000_CR0,0,799,1000_AL_.jpg",
       "occupation": "Actor",
       "location": "Friends"
     },
     {
       "id": 11,
       "name": "Tom Selleck",
-      "image": "https://www.imdb.com/name/nm0000633/mediaviewer/rm3696919040",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjQzODMzNF5BMl5BanBnXkFtZTcwMjE0NTM1Mw@@._V1_.jpg",
       "occupation": "Actor",
       "location": "Friends"
     },
     {
       "id": 12,
       "name": "Jane Sibbett",
-      "image": "https://www.imdb.com/name/nm0796235/mediaviewer/rm3134429696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzNDQ4NTkzMF5BMl5BanBnXkFtZTYwNjQwMjgy._V1_.jpg",
       "occupation": "Actress",
       "location": "Friends"
     }
